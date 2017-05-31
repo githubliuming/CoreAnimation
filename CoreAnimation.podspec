@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "CoreAnimation"
   s.version      = "1.0.1"
-  s.summary      = "A short description of CoreAnimation."
+  s.summary      = "first pod demo"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "http://EXAMPLE/CoreAnimation"
+  s.homepage     = "https://github.com/githubliuming/CoreAnimation"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/CoreAnimation.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/githubliuming/CoreAnimation.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
